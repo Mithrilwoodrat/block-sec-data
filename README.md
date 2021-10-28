@@ -1,6 +1,9 @@
 # block-sec-data
 区块链安全资料
 
+先安装钱包，eth、layer2（兼容 eth）都需要钱包交互，包括他们的测试网络。chrome 安装 metamask 插件
+sol 有另外的钱包插件比如 Phantom
+
 ## 基础概念
 
 ### ETH
@@ -13,6 +16,7 @@
 ### solana
 rust的编写的公链，意图取代 eth，合约为c或rust开发
 
+- https://github.com/solana-labs/solana
 - demo 项目 https://github.com/solana-labs/solana-program-library （很多项目方基于这个改的）
 
 ### DEFI
