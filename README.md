@@ -18,6 +18,7 @@ rust的编写的公链，意图取代 eth，合约为c或rust开发
 
 - https://github.com/solana-labs/solana
 - demo 项目 https://github.com/solana-labs/solana-program-library （很多项目方基于这个改的）
+- https://docs.solana.com/developing/on-chain-programs/overview
 
 ### DEFI
  - [什么是DEFI(上)(]https://zhuanlan.zhihu.com/p/377856331)
