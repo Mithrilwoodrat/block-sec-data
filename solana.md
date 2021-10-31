@@ -4,6 +4,11 @@
 - 安装 vsode rust
 - 安装 rust-analyzer CodeLLDB 插件，如果报错缺少源码则运行 `rustup component add rust-src`
 
+## solana 环境
+ - 设置 devnet： `solana config set --url devnet`
+ - 新建账户 `solana-keygen new`
+ - 获取空投 `solana airdrop -k owner.json 10` 或者 `solana airdrop <address> 10`
+
 
 ## sol 概念
  - 从exmaple hello world 开始看 https://github.com/solana-labs/example-helloworld
