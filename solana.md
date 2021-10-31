@@ -9,6 +9,9 @@
  - 新建账户 `solana-keygen new`
  - 获取空投 `solana airdrop -k owner.json 10` 或者 `solana airdrop <address> 10`
 
+## sol debug
+ - 若有 tests 测试代码，可以下断点后使用 cargo test 启动本地测试程序
+ - 部署到链上的代码无法调试，可以从 cli 中扣出代码，然后编写成 tests 文件
 
 ## sol 概念
  - 从exmaple hello world 开始看 https://github.com/solana-labs/example-helloworld
