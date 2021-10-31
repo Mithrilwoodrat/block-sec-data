@@ -39,6 +39,7 @@ rust的编写的公链，意图取代 eth，合约为c或rust开发
 ## poc & ctf
  -  https://github.com/OpenZeppelin/damn-vulnerable-defi
  -  https://github.com/blocksecteam/defi_poc
+ -  https://github.com/nkbai/defcon26/blob/master/docs/Replay%20Attacks%20on%20Ethereum%20Smart%20Contracts.md
 
 ## 审计公司
  - 慢雾 （国内名气最大）
