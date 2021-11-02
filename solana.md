@@ -16,7 +16,8 @@
 ## sol 概念
  - 从exmaple hello world 开始看 https://github.com/solana-labs/example-helloworld
  - 同步可以看开发者视频 https://www.bilibili.com/video/BV1ev41157bs/?spm_id_from=333.788.recommend_more_video.0
-
+ - Solana 全栈开发 https://mp.weixin.qq.com/s/2sAiuj0pv33o9XtqROSWjQ
+ - Solana 开发学习笔记(一)——从 Hello World 出发 https://mp.weixin.qq.com/s/oefXIhQP_o4BHdu9sCvZAQ
  - 涉及的概览在 https://docs.solana.com/developing/programming-model/overview 上
  - 和 ETH 合约主要区别有两点：
   -  1. instruction， instruction 类似 eth 合约函数，一个交易中可以调用多个 instruction，打包的 instruction 中有一个失败则交易失败，类似 mysql 的事务。
