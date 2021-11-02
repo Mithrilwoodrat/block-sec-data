@@ -21,5 +21,5 @@
  - 和 ETH 合约主要区别有两点：
   -  1. instruction， instruction 类似 eth 合约函数，一个交易中可以调用多个 instruction，打包的 instruction 中有一个失败则交易失败，类似 mysql 的事务。
   -  2. account, eth 的数据存储在合约中，代码中是一个合约的全局变量。 solana 的数据存储在 account 中，account 隶属于某一个 program (合约). 一个合约可以有多个 account
-
+ -  token 代码分析 https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
 
